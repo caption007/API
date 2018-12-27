@@ -1,0 +1,28 @@
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojResolveAssemblyReference.cache
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\tian.zuo\Desktop\samples\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\junfeng.li\source\repos\Sample web api\2.1\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
